@@ -1,0 +1,26 @@
+_repo: Early-Reviews-of-English-Poets_18766
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haney, John Louis
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '6380'
+    url: http://www.gutenberg.org/2009/agents/6380
+description: ''
+gutenberg_issued: '2006-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Book reviews'
+title: Early Reviews of English Poets
+url: http://www.gutenberg.org/ebooks/18766
